@@ -2,7 +2,7 @@
 
 gominer is the console miner provided by [robvanmieghem](https://github.com/robvanmieghem/gominer).
 
-marlin supports Siacoin (SC).
+gominer supports Siacoin (SC).
 
 # How to use this image [AMDGPU-PRO version]
 
