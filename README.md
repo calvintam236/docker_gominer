@@ -15,7 +15,7 @@ $ docker run -d --device /dev/dri:/dev/dri --name YOUR_CONTAINER_NAME calvintam2
 Get `gominer` options with:
 
 ```console
-$ docker run --rm calvintam236/gominer:amd -help
+$ docker run --rm calvintam236/gominer:amd
 ```
 
 Fetch logs of a container:
