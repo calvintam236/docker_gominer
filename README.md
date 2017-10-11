@@ -9,7 +9,7 @@ gominer supports Siacoin (SC).
 Run in background:
 
 ```console
-$ docker run -d --device /dev/dri:/dev/dri --name YOUR_CONTAINER_NAME calvintam236/gominer:amd -url YOUR_POOL_ADDRESS -user YOUR_USERNAME.YOUR_WORKER_NAME
+$ docker run -d --device /dev/kfd --device /dev/dri --name YOUR_CONTAINER_NAME calvintam236/gominer:amd -url YOUR_POOL_ADDRESS -user YOUR_USERNAME.YOUR_WORKER_NAME
 ```
 
 Get `gominer` options with:
